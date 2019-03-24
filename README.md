@@ -1,5 +1,6 @@
 # WordSimilarity
 **Multiple methods to calculate similarity between two words.**
+
 Please download text8 before using.
 
 # How To Use
