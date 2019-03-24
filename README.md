@@ -1,2 +1,15 @@
-# Word-Similarity-
-计算词汇相似度，并基于Mturk-771进行实验和分析。
+# WordSimilarity
+**Multiple methods to calculate similarity between two words.**
+
+# How To Use
+
+```python main.py```
+
+# Environment
+Python 3.6.5 on Win10
+
+---
+
+Used For [SCKR2019@PKU](http://59.108.48.12/lcwm/course/sckr2019/)
+
+More details please read 第一次作业--词汇相似度计算.pdf
